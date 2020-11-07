@@ -8,10 +8,10 @@
 		<version>2.3.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>service1</artifactId>
+	<groupId>edu.geodani</groupId>
+	<artifactId>validation-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>service1</name>
+	<name>validation-service</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
